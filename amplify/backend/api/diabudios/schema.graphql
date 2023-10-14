@@ -1,0 +1,13 @@
+type Sugar @model @auth(rules: [{allow: private}, {allow: owner}]) {
+  id: ID!
+  timestamp: AWSTime
+  sugar: Int
+}
+
+type Item @model @auth(rules: [{allow: owner}, {allow: private}]) {
+  id: ID!
+  name: String!
+  unit: String
+  quantity: Int
+}
+ 

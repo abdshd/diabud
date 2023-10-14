@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-diabudios-dev-165847-authRole",
+      "UnauthRoleArn": "arn:aws:iam::858497451723:role/amplify-diabudios-dev-165847-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::858497451723:role/amplify-diabudios-dev-165847-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-diabudios-dev-165847-deployment",
+      "UnauthRoleName": "amplify-diabudios-dev-165847-unauthRole",
+      "StackName": "amplify-diabudios-dev-165847",
+      "StackId": "arn:aws:cloudformation:us-east-1:858497451723:stack/amplify-diabudios-dev-165847/fb1b91b0-63c1-11ee-b0e1-0ed89552ba3d",
+      "AmplifyAppId": "d18pl8fosgsh8d"
+    },
+    "categories": {
+      "auth": {
+        "diabudios0e110769": {}
+      }
+    }
+  }
+}
